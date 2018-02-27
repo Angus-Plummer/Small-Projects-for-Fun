@@ -1,3 +1,6 @@
+// Program to investigate the effectiveness of a roullete strategy that is guaranteed* to work.
+// *If you have an infinite pool of money to bet with.
+
 #include "stdlib.h"
 #include <iostream>
 #include <time.h>
