@@ -1,0 +1,7 @@
+﻿  World.cpp
+e:\angus\work\programming\cpp\n-body simulation - barnes hut tree\n-body simulation - barnes hut tree\particle.h(10): fatal error C1083: Cannot open include file: 'opencv2/core.hpp': No such file or directory
+  ParticleSystem.cpp
+e:\angus\work\programming\cpp\n-body simulation - barnes hut tree\n-body simulation - barnes hut tree\particle.h(10): fatal error C1083: Cannot open include file: 'opencv2/core.hpp': No such file or directory
+  Particle.cpp
+e:\angus\work\programming\cpp\n-body simulation - barnes hut tree\n-body simulation - barnes hut tree\particle.h(10): fatal error C1083: Cannot open include file: 'opencv2/core.hpp': No such file or directory
+  Generating Code...
